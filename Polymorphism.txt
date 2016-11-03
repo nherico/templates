@@ -1,0 +1,75 @@
+Polymorphism Internet Cafe
+
+Server Specs:
+CPU: Intel Core i3 6100 3.7ghz (P5,400)
+RAM: GSkill Ripjaws V 16GB Dual DDR4 2400 (P5,000)
+Mobo: Gigabyte GA-B150M-HD3 (P4,150)(green/black capacitor)
+PSU: Seasonic S12II 520W 80PLUS Bronze (P2,650)
+Chasis: Thermaltake Versa H24 (P2,050)
+AVR+UPS: APC Back-UPS BX1100Li-MS (P5,850)
+Storage: 1x SSD 128gb Server OS (P2,850)
+		 1x SSD 128gb Image Disk (P2,850)
+		 1x SSD 128gb WriteBack (P2,850)
+		 1x SSD 128gb Cache (P2,850)
+		 1x 1T WD Caviar Black 1TB SATA3 6GB/s Game Disk (P3,550)
+Sub Total: P40,050
+
+20x Client Specs:
+CPU: Intel G4400 3.3ghz (P2,700/P54,000)
+RAM: G.Skill Ripjaw 4GB DDR4-2400mhz (P1,280/P25,600)
+Mobo: Gigabyte GA-H110M-H (P3,350/P67,000)(green/black capacitor)
+Graphics: Palit GTX750 (P4,950/P99,000)
+PSU: Seasonic S12II 520W 80PLUS Bronze (P2,650/P53,000)
+Chasis: HIP S607 Slim Case 600w psu (P1,390/P27,800)
+Sub Total: P326,400
+
+Timer/Development Specs:
+CPU: Intel Core-i3 6100 3.7ghz (P5,400)
+RAM: G.Skill Ripjaw 4GB DDR4-2400mhz (P1,280)
+Mobo: Gigabyte GA-H110M-H (P3,350)(green/black capacitor)
+Graphics: Palit GTX750 (P4,950)
+PSU: Seasonic S12II 520W 80PLUS Bronze (P2,650)
+Chasis: HIP S607 Slim Case 600w psu (P1,390)
+Storage: 1T WD Caviar Black 1TB SATA3 6GB/s (P3,550)
+Sub Total: P22,570
+
+Network & Other Peripherals:
+1x DLink DGS-1210-28 24-Port Gigabit Switch (P9,250)
+2x Cat-5e utp cable box (P6,000)
+21x Dell E1916HV 18.5 inch Led Monitor (P3,590/P75,390)
+21x A4Tech KBS-720A Keyboard (P315/P6,615)
+21x A4Tech OP-620D Mouse (P200/P4,200)
+20x A4tech AS-207 Speaker (P380/7,980)
+21x Generic AVR (P250/P5,250)
+Sub Total: P114,685
+
+Gross Total: P503,705 (without softwares)
+
+Softwares:
+1x Windows Server 2008 R2 (xxxxx)
+21x Windows 7 Pro x64 (P5,950/P124,950)
+20x CCBoot (P400/P8,000)
+
+PFSense
+
+Games:
+-Dota1
+-Dota2
+-LoL
+-NBA2k15
+-World Of Tanks
+-Battle Field 4
+-Call Of Duty
+-CSGO
+-Star Craft 2
+-Counter Strike Sorce
+-Need For Speed
+-GTA5
+-Left4Dead 2
+-Crossfire
+-Dragon Nest
+
+Rate:
+1h = P20
+3h = P45
+10h = P120
